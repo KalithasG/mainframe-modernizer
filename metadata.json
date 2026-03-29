@@ -1,0 +1,5 @@
+{
+  "name": "Mainframe Modernizer",
+  "description": "The Mainframe Modernizer web Application converts legacy cobol into any requested language like Python, Java, C#, Go, etc.,",
+  "requestFramePermissions": []
+}
