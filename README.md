@@ -2,6 +2,12 @@
 
 A web application that converts legacy **COBOL** code into modern programming languages using a multi-agent AI pipeline powered by Google Gemini. Beyond simple translation, it runs a full suite of automated analysis agents — DSA, system design, performance, business logic, and testing — before iteratively fixing issues in the generated code.
 
+
+
+
+https://github.com/user-attachments/assets/06b88a43-eb79-4635-83bf-e51a90811597
+
+
 ---
 
 ## Table of Contents
